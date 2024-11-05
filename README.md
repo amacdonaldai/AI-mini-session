@@ -3,10 +3,10 @@
 # 🤖 AI Enablement Workshop
 
 Welcome to the AI Enablement workshop repo! This is your central hub for prompts, configurations, and links to CustomGPTs that we’ll be using throughout our session. We've designed a dynamic, hands-on workshop with **80% of your time spent experimenting (FAFO)** and exploring various tools and methods. This session is interactive and informal, so engage fully!
-
+<br>
+<br>
 ---
-<br>
-<br>
+
 ## 📈 Learning Outcomes for Today
 
 By the end of this workshop, participants will:
@@ -16,10 +16,10 @@ By the end of this workshop, participants will:
 3. 🛠️ **Gain Hands-on Experience** using AI tools to solve real-world challenges.
 4. 🚀 **Begin Your Organizational AI Journey** with practical examples.
 5. 🔍 **Embark on a Personal Journey** to deepen your AI expertise.
-
+<br>
+<br>
 ---
-<br>
-<br>
+
 ### 🚨 Important Notice 🚨
 
 As we dive into AI tools, keep in mind:
@@ -27,10 +27,10 @@ As we dive into AI tools, keep in mind:
 - ⚠️ Some results may lack complete accuracy. Striving for perfect precision might not always be feasible.
 - 💡 Use AI as a support tool to enhance decision-making rather than replace it.
 - ⚙️ Prompt quality matters – think carefully before hitting "enter" to avoid potential "rate-limits."
-
+<br>
+<br>
 ---
-<br>
-<br>
+
 ## 🦾 Chapter 1: Recent Updates and CustomGPTs (60 minutes)
 
 This chapter introduces recent developments in AI, including **ChatGPT Canvas** and **Claude Artifacts**, which provide powerful tools for strategy development. We’ll start with a **team exercise** to create a prompt for an **F25 Charter** focused on food waste reduction.
@@ -39,10 +39,10 @@ This chapter introduces recent developments in AI, including **ChatGPT Canvas** 
 - **Create a Strategy**: Using ChatGPT Canvas, write a roadmap for food waste reduction, including KPIs to align with organizational goals. We'll review this in Claude Artifacts too.
 - **Experiment with CustomGPTs**: Use ChatGPT to create a CustomGPT - your very own app.
 - **Hands-on Exercise**: Develop a prompt for a detailed F25 Charter, defining clear steps to reduce waste and establish measurable KPIs.
-
+<br>
+<br>
 ---
-<br>
-<br>
+
 ## 🚀 Chapter 2: UI and Agents (60 minutes)
 
 In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charter prompt into an interactive **dashboard**. We'll discuss **data visualization** techniques, build the foundation of a real-time dashboard, and explore **AI Agents** and their role in data processing.
@@ -56,10 +56,10 @@ In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charte
 - 🖥️ **Dashboard Creation**: Build a live dashboard from the F25 Charter prompt using v0.dev.
 - 🔍 **Data Agents**: Introduction to data agents, discussing their use and potential for automation.
 - 🤖 **Practical Tips**: Understand best practices for integrating agents with dashboard analytics.
-
+<br>
+<br>
 ---
-<br>
-<br>
+
 ## 📊 Chapter 3: Automations and NO/LO Code (60 minutes)
 
 In our final chapter, we’ll take the UI and code from v0.dev and push it into **Replit**, **GPT Engineer**, and **CLINE** to build a functional, interactive dashboard. This is where we bring the entire process together, showcasing the power of **no-code/low-code platforms** for scalable automation.
