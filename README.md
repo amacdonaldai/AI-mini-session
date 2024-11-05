@@ -16,10 +16,6 @@ By the end of this workshop, participants will:
 3. 🛠️ **Gain Hands-on Experience** using AI tools to solve real-world challenges.
 4. 🚀 **Begin Your Organizational AI Journey** with practical examples.
 5. 🔍 **Embark on a Personal Journey** to deepen your AI expertise.
-<br>
-<br>
-
----
 
 ### 🚨 Important Notice 🚨
 
