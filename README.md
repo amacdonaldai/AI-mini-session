@@ -105,7 +105,7 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 - **[Claude Artifacts](https://www.anthropic.com/claude)**: A feature within Claude that fosters creativity and productivity in content creation and software development.
 
-- **[CLINE](https://cline.dev/)**: A command-line interface tool that integrates with no-code/low-code workflows to streamline development processes.
+- **[CLINE](https://github.com/cline/cline)**: A command-line interface tool that integrates with no-code/low-code workflows to streamline development processes.
 
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
 
