@@ -109,7 +109,7 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
 
-- **[NotebookLM](https://www.google.com/notebooklm/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
+- **[NotebookLM](https://notebooklm.google/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
 
 - **[Replit](https://replit.com/)**: An online coding platform that allows users to write, run, and share code in various programming languages.
 
