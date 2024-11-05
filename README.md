@@ -18,6 +18,7 @@ By the end of this workshop, participants will:
 5. 🔍 **Embark on a Personal Journey** to deepen your AI expertise.
 <br>
 <br>
+
 ---
 
 ### 🚨 Important Notice 🚨
@@ -29,6 +30,7 @@ As we dive into AI tools, keep in mind:
 - ⚙️ Prompt quality matters – think carefully before hitting "enter" to avoid potential "rate-limits."
 <br>
 <br>
+
 ---
 
 ## 🦾 Chapter 1: Recent Updates and CustomGPTs (60 minutes)
