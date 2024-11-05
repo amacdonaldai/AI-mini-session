@@ -1,7 +1,5 @@
 # ![image](https://github.com/user-attachments/assets/cc885429-952e-4b6d-8631-e15c15eae738)
        
-# AI Enablement
-
 # 🤖 AI Enablement Workshop
 
 Welcome to the AI Enablement workshop repo! This is your central hub for prompts, configurations, and links to CustomGPTs that we’ll be using throughout our session. We've designed a dynamic, hands-on workshop with **80% of your time spent experimenting (FAFO)** and exploring various tools and methods. This session is interactive and informal, so engage fully!
