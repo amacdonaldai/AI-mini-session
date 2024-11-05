@@ -91,30 +91,36 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
+---
+
 ## 🛠️ Tools and Resources
 
-Below is a list of tools and platforms we'll be utilizing throughout the workshop, along with their official websites for easy access:
-
-- **[ChatGPT](https://chatgpt.com/)**: An AI language model developed by OpenAI, capable of generating human-like text based on user prompts.
-
-- **[Claude](https://www.anthropic.com/claude)**: An AI chatbot developed by Anthropic, designed to assist with various tasks through conversational interactions.
-
-- **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
+Below is a list of tools and platforms we'll be utilizing throughout the workshop, organized alphabetically for easy access:
 
 - **[Bolt](https://bolt.new/)**: A platform for rapid prototyping and development, accessible via the `bolt.new` domain.
 
-- **[Vercel (v0.dev)](https://vercel.com/)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
-
-- **[Replit](https://replit.com/)**: An online coding platform that allows users to write, run, and share code in various programming languages.
-
-- **[NotebookLM](https://www.google.com/notebooklm/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
+- **[ChatGPT](https://chatgpt.com/)**: An AI language model developed by OpenAI, capable of generating human-like text based on user prompts.
 
 - **[ChatGPT Canvas](https://openai.com/chatgpt/overview/)**: A collaborative workspace within ChatGPT that enhances productivity for coding and writing tasks.
+
+- **[Claude](https://www.anthropic.com/claude)**: An AI chatbot developed by Anthropic, designed to assist with various tasks through conversational interactions.
 
 - **[Claude Artifacts](https://www.anthropic.com/claude)**: A feature within Claude that fosters creativity and productivity in content creation and software development.
 
 - **[CLINE](https://cline.dev/)**: A command-line interface tool that integrates with no-code/low-code workflows to streamline development processes.
+
+- **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
+
+- **[NotebookLM](https://www.google.com/notebooklm/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
+
+- **[Replit](https://replit.com/)**: An online coding platform that allows users to write, run, and share code in various programming languages.
+
+- **[Vercel (v0.dev)](https://vercel.com/)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 <br>
+Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
+
+---
+
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
 ---
