@@ -114,7 +114,7 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 - **[Claude Artifacts](https://www.anthropic.com/claude)**: A feature within Claude that fosters creativity and productivity in content creation and software development.
 
 - **[CLINE](https://cline.dev/)**: A command-line interface tool that integrates with no-code/low-code workflows to streamline development processes.
-
+<br>
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
 ---
