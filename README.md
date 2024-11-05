@@ -39,21 +39,23 @@ This chapter introduces recent developments in AI, including **ChatGPT Canvas** 
 
 ---
 
-### F25 Charter Prompt Structure
+### F25 Charter Prompt for Second Harvest
 
-**Role**: Play the role of an expert strategic planner and advisor focused on sustainability and organizational alignment.
+**Prompt:**
 
-**Task**: Develop an organization-wide F25 Charter to help align and focus our team on the roadmap to reduce food waste. This charter should be designed to serve as a guiding document that keeps everyone aligned and accountable to our shared goals.
+**Role**: Act as an expert strategic planner and advisor for Second Harvest, focused on sustainability and organizational alignment.
+
+**Task**: Develop an organization-wide F25 Charter to help align and focus the Second Harvest team on the roadmap to reduce food waste. This charter should serve as a guiding document, keeping everyone at Second Harvest aligned and accountable to shared goals.
 
 **Function**: The charter should include the following key sections:
 
-1. **Areas of Focus**: Outline the primary areas where the organization needs to concentrate its efforts to effectively reduce food waste. Each area should be clearly defined and tied to our overall mission.
+1. **Areas of Focus**: Outline the primary areas where Second Harvest should concentrate efforts to effectively reduce food waste. Each area should be clearly defined and tied to Second Harvest’s overall mission of minimizing food waste and maximizing food security.
 
-2. **Strategic Pillars**: Establish a set of strategic pillars that will form the foundation of our food waste reduction efforts. These pillars should be designed to ensure cohesion, support cross-departmental initiatives, and drive our overall strategy.
+2. **Strategic Pillars**: Establish a set of strategic pillars that will form the foundation of Second Harvest’s food waste reduction efforts. These pillars should ensure cohesion, support cross-departmental initiatives, and drive the overall strategy.
 
-3. **Key Performance Indicators (KPIs)**: Define specific and measurable KPIs for each area of focus, allowing us to track progress and success. These KPIs should reflect our commitment to reducing food waste across various departments and operational levels, and include both quarterly and annual milestones.
+3. **Key Performance Indicators (KPIs)**: Define specific and measurable KPIs for each area of focus, allowing Second Harvest to track progress and success. These KPIs should reflect the organization’s commitment to reducing food waste across various departments and operational levels, including both quarterly and annual milestones.
 
-**Outcome**: The charter should be clear, actionable, and inspiring. It should promote accountability, foster collaboration across departments, and provide a structured approach to monitoring our progress toward the F25 roadmap goals.
+**Outcome**: The charter should be clear, actionable, and inspiring for Second Harvest. It should promote accountability, foster collaboration across departments, and provide a structured approach to monitoring progress toward the F25 roadmap goals.
 
 ---
 
