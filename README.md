@@ -1,5 +1,5 @@
 # ![image](https://github.com/user-attachments/assets/cc885429-952e-4b6d-8631-e15c15eae738)
-       
+
 # 🤖 AI Enablement Workshop
 
 Welcome to the AI Enablement workshop repo! This is your central hub for prompts, configurations, and links to CustomGPTs that we’ll be using throughout our session. We've designed a dynamic, hands-on workshop with **80% of your time spent experimenting (FAFO)** and exploring various tools and methods. This session is interactive and informal, so engage fully!
@@ -16,6 +16,8 @@ By the end of this workshop, participants will:
 4. 🚀 **Begin Your Organizational AI Journey** with practical examples.
 5. 🔍 **Embark on a Personal Journey** to deepen your AI expertise.
 
+---
+
 ### 🚨 Important Notice 🚨
 
 As we dive into AI tools, keep in mind:
@@ -23,8 +25,6 @@ As we dive into AI tools, keep in mind:
 - ⚠️ Some results may lack complete accuracy. Striving for perfect precision might not always be feasible.
 - 💡 Use AI as a support tool to enhance decision-making rather than replace it.
 - ⚙️ Prompt quality matters – think carefully before hitting "enter" to avoid potential "rate-limits."
-<br>
-<br>
 
 ---
 
@@ -36,8 +36,24 @@ This chapter introduces recent developments in AI, including **ChatGPT Canvas** 
 - **Create a Strategy**: Using ChatGPT Canvas, write a roadmap for food waste reduction, including KPIs to align with organizational goals. We'll review this in Claude Artifacts too.
 - **Experiment with CustomGPTs**: Use ChatGPT to create a CustomGPT - your very own app.
 - **Hands-on Exercise**: Develop a prompt for a detailed F25 Charter, defining clear steps to reduce waste and establish measurable KPIs.
-<br>
-<br>
+
+---
+
+### F25 Charter Prompt Structure
+
+**Role**: Play the role of an expert strategic planner and advisor focused on sustainability and organizational alignment.
+
+**Task**: Develop an organization-wide F25 Charter to help align and focus our team on the roadmap to reduce food waste. This charter should be designed to serve as a guiding document that keeps everyone aligned and accountable to our shared goals.
+
+**Function**: The charter should include the following key sections:
+
+1. **Areas of Focus**: Outline the primary areas where the organization needs to concentrate its efforts to effectively reduce food waste. Each area should be clearly defined and tied to our overall mission.
+
+2. **Strategic Pillars**: Establish a set of strategic pillars that will form the foundation of our food waste reduction efforts. These pillars should be designed to ensure cohesion, support cross-departmental initiatives, and drive our overall strategy.
+
+3. **Key Performance Indicators (KPIs)**: Define specific and measurable KPIs for each area of focus, allowing us to track progress and success. These KPIs should reflect our commitment to reducing food waste across various departments and operational levels, and include both quarterly and annual milestones.
+
+**Outcome**: The charter should be clear, actionable, and inspiring. It should promote accountability, foster collaboration across departments, and provide a structured approach to monitoring our progress toward the F25 roadmap goals.
 
 ---
 
@@ -54,8 +70,6 @@ In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charte
 - 🖥️ **Dashboard Creation**: Build a live dashboard from the F25 Charter prompt using v0.dev.
 - 🔍 **Data Agents**: Introduction to data agents, discussing their use and potential for automation.
 - 🤖 **Practical Tips**: Understand best practices for integrating agents with dashboard analytics.
-<br>
-<br>
 
 ---
 
@@ -75,4 +89,4 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
-
+We’re thrilled to embark on this AI journey together. Let’s unlock the potential of AI in empowering change and creating actionable, real-world solutions!
