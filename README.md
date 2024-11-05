@@ -32,16 +32,15 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 
 # 🦾 Chapter 1
 
-##    💼 Warm-up with ChatGPT (60 minutes)
-Let's warm up in 7 Prompts.
-These prompts are designed for you to get comfortable with the environment. For this use-case we will use an HR process for recruiting
-Why? Because recruiting involves everyone. 
-Everyone here has a role to play in recruiting.
+##    💼 Recent Updates and CustomGPTs (60 minutes)
+o1 Preview
+ChatGPT Canvas
+Claude Artifacts
+ChatGPT Search
+Desktop apps
+ChatGPT Memory
+Agents…later
 
-Let's explore 7 simple prompts to get ChatGPT working for us.
-
-Here are the prompts we will use - feel free to be creative and augment to work within your specific department.
-- [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
   
 <br>
 
