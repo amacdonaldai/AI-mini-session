@@ -43,6 +43,7 @@ This chapter introduces recent developments in AI, including **ChatGPT Canvas** 
 - **Hands-on Exercise**: Develop a prompt for a detailed F25 Charter, defining clear steps to reduce waste and establish measurable KPIs.
 <br>
 <br>
+
 ---
 
 ## 🚀 Chapter 2: UI and Agents (60 minutes)
@@ -60,6 +61,7 @@ In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charte
 - 🤖 **Practical Tips**: Understand best practices for integrating agents with dashboard analytics.
 <br>
 <br>
+
 ---
 
 ## 📊 Chapter 3: Automations and NO/LO Code (60 minutes)
