@@ -35,8 +35,8 @@ As we dive into AI tools, keep in mind:
 This chapter introduces recent developments in AI, including **ChatGPT Canvas** and **Claude Artifacts**, which provide powerful tools for strategy development. We’ll start with a **team exercise** to create a prompt for an **F25 Charter** focused on food waste reduction.
 
 ### Objectives for Chapter 1
-- **Create a Strategy**: Using ChatGPT Canvas, write a roadmap for food waste reduction, including KPIs to align with organizational goals.
-- **Experiment with CustomGPTs**: Use Claude Artifacts to explore how AI can help visualize and refine strategic plans.
+- **Create a Strategy**: Using ChatGPT Canvas, write a roadmap for food waste reduction, including KPIs to align with organizational goals. We'll review this in Claude Artifacts too.
+- **Experiment with CustomGPTs**: Use ChatGPT to create a CustomGPT - your very own app.
 - **Hands-on Exercise**: Develop a prompt for a detailed F25 Charter, defining clear steps to reduce waste and establish measurable KPIs.
 
 ---
@@ -73,10 +73,4 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
-### Getting Started
 
-1. Clone this repo to get access to prompts, configurations, and resources.
-2. Review each chapter’s **Objectives** and **Topics** to prepare for hands-on exercises.
-3. **Lean in, experiment, and FAFO** – there’s no "wrong" answer, and I’m here to help!
-
-We’re thrilled to embark on this AI journey together. Let’s unlock the potential of AI in empowering change and creating actionable, real-world solutions!
