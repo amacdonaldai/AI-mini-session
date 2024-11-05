@@ -33,13 +33,13 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 # 🦾 Chapter 1
 
 ##    💼 Recent Updates and CustomGPTs (60 minutes)
-o1 Preview
-ChatGPT Canvas
-Claude Artifacts
-ChatGPT Search
-Desktop apps
-ChatGPT Memory
-Agents…later
+- o1 Preview
+- ChatGPT Canvas
+- Claude Artifacts
+- ChatGPT Search
+- Desktop apps
+- ChatGPT Memory
+- Agents…later
 
   
 <br>
