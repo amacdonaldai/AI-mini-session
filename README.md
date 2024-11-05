@@ -40,71 +40,15 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 - Desktop apps
 - ChatGPT Memory
 - Agents…later
-
-  
+<br>
+<br> 
 <br>
 
-## 🚀 Chapter 2  
-### 🔥 Rapid FAFO - Various Experiments (30 minutes)
-### Multi-modal experiment
-- [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
-<br>
-<br>
+# 🚀 Chapter 2  
+##   UI and Agents
 
-### Financial Expenses Assistant
-- [Finance Expenses Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
-<br>
-<br>
 
-### HR Policy Assistant
-- [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
-<br>
-<br>
 
-### Financial Analyst
-- [ETSY SEC Filing](https://github.com/amacdonaldai/AI-Empowerment/blob/main/ETSY.pdf)
-<!---- Prompt: you are an expert financial analyst and turnaround consultant with more than 15 years of experience.
-  Think like a harvard MBA. Thinklike a Goldman Sachs expert. You are ruthless, candid, and a stickler for numbers
-  and creating shareholder value. Please help us turnaround ETSY.  We are providing you with the latest SEC financials
-  for the company. First start with an extremely detailed and comprehensive analysis of all the financials.
-  Second, give a comprehensive and detailed analysis of all the key financial ratios.
-  Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value.--->
-<br>
-<br>
-
-<!---### Ideation & Brainstorming for Open Farm
-**Prompt:** You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Open Farm, a 
-leading sustainable pet food company dedicated to ethical ingredient sourcing and environmentally friendly practices. 
-Your role is to brainstorm ideas across the following domains:
-
-**Marketing Strategies:** Propose unique marketing strategies that could help Open Farm raise awareness about sustainable pet food. 
-Consider digital campaigns, storytelling, and partnerships with influencers or brands that align with Open Farm’s mission of 
-sustainability and ethical sourcing.
-
-**Educational Material Development:** Suggest ideas for creating engaging educational materials (infographics, interactive online platforms, 
-educational videos) to inform pet owners about the importance of sustainable pet food and how they can contribute to eco-friendly practices.
-
-**Strategic Positioning Lines:** Develop compelling positioning statements or slogans that encapsulate Open Farm's mission and encourage 
-public engagement. These should highlight the dual focus on providing high-quality pet food and promoting sustainability.
-
-**Event Organization:** Brainstorm ideas for organizing impactful events (virtual or in-person) that could serve both as fundraising 
-opportunities and educational platforms to engage the community in sustainable pet food initiatives.
-
-**Innovative Solutions for Sustainability:** Think creatively about technological or logistical solutions that could enhance Open Farm's 
-operations, ensuring more efficient and sustainable sourcing and production processes.
-
-**Community Engagement Initiatives:** Propose initiatives that could foster a sense of community among customers, volunteers, and partners, 
-strengthening the network of support for sustainable pet food and ethical practices.
-<br>
-<br>--->
-
-### Voice Cloning
-- [Eleven Labs](https://elevenlabs.io/):
-- WealthInsurance.com specializes in estate planning and tax-efficient life insurance solutions for business owners, entrepreneurs,
-  professionals, and affluent families. They offer services such as tax-exempt life insurance, corporate-owned life insurance, philanthropy planning,
-  and estate preservation strategies. Their goal is to help clients reduce tax liabilities, protect assets, and leave a lasting legacy. With 33 years
-  of experience, they work closely with accountants and financial advisors to provide tailored solutions, focusing on maximizing wealth for future generations.
-  For more details, visit WealthInsurance.com.
 <br>
 <br>
 
