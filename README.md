@@ -117,9 +117,6 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 - **[Vercel (v0.dev)](https://vercel.com/)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 <br>
-Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
-
----
 
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
