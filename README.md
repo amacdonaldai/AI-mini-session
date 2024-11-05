@@ -91,8 +91,6 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
----
-
 ## 🛠️ Tools and Resources
 
 Below is a list of tools and platforms we'll be utilizing throughout the workshop, organized alphabetically for easy access:
