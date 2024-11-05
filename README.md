@@ -113,7 +113,7 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 - **[Replit](https://replit.com/)**: An online coding platform that allows users to write, run, and share code in various programming languages.
 
-- **[Vercel (v0.dev)](https://vercel.com/)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+- **[Vercel (v0.dev)](https://v0.dev)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 <br>
 
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
