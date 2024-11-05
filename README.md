@@ -1,4 +1,5 @@
-# ![Screenshot 2024-10-27 at 4 58 51 PM](https://github.com/user-attachments/assets/c9d892a3-fad6-41b1-960b-a28317749561)         AI Enablement
+# ![image](https://github.com/user-attachments/assets/cc885429-952e-4b6d-8631-e15c15eae738)
+       AI Enablement
 
 Welcome to the AI Enablement workshop repo, here you will find prompts, configs and 
 links to CustomGPTs that will be used throughout the session. We have a fantastic session planned 
