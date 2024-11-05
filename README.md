@@ -2,56 +2,81 @@
        
 # AI Enablement
 
-Welcome to the AI Enablement workshop repo, here you will find prompts, configs and 
-links to CustomGPTs that will be used throughout the session. We have a fantastic session planned 
-with 80% of your time spent experimenting (FAFO) and exploring the various tools and methods. 
-Theory is kept to a minimum. No technical (Einstein) knowledge is required. 
-This is not a typing class, I'm here to help, so lean in and engage.
-<br>
-<br>
-<br>
-🚨🚨🚨 **ALERT** 🚨🚨🚨
+# 🤖 AI Enablement Workshop
 
-It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. 
-- In some instances, achieving absolute accuracy might not be feasible. 
-- Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. 
-- Your discression is crucial. 
-- Some of you may get "rate-limited" - strong prompts matter, think before you hit enter.
-- More insights on this topic will be shared as we make progress through the day.
-<br>
+Welcome to the AI Enablement workshop repo! This is your central hub for prompts, configurations, and links to CustomGPTs that we’ll be using throughout our session. We've designed a dynamic, hands-on workshop with **80% of your time spent experimenting (FAFO)** and exploring various tools and methods. This session is interactive and informal, so engage fully!
 
-<!---🚨🚨🚨 **STOP** 🚨🚨🚨 
+---
 
-Have you tried to subscribe to ChatGPT Plus and got waitlisted?
+## 📈 Learning Outcomes for Today
 
-Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
-<br>
-<br>
+By the end of this workshop, participants will:
 
+1. 🌟 **Be Inspired by AI** and learn about its practical applications.
+2. 🧠 **Understand Generative AI Basics** and how it can be applied strategically.
+3. 🛠️ **Gain Hands-on Experience** using AI tools to solve real-world challenges.
+4. 🚀 **Begin Your Organizational AI Journey** with practical examples.
+5. 🔍 **Embark on a Personal Journey** to deepen your AI expertise.
 
+---
 
-# 🦾 Chapter 1
+### 🚨 Important Notice 🚨
 
-##    💼 Recent Updates and CustomGPTs (60 minutes)
-- o1 Preview
-- ChatGPT Canvas
-- Claude Artifacts
-- ChatGPT Search
-- Desktop apps
-- ChatGPT Memory
-- Agents…later
-<br>
-<br> 
-<br>
+As we dive into AI tools, keep in mind:
 
-# 🚀 Chapter 2  
-##   UI and Agents (60 minutes)
+- ⚠️ Some results may lack complete accuracy. Striving for perfect precision might not always be feasible.
+- 💡 Use AI as a support tool to enhance decision-making rather than replace it.
+- ⚙️ Prompt quality matters – think carefully before hitting "enter" to avoid potential "rate-limits."
 
+---
 
+## 🦾 Chapter 1: Recent Updates and CustomGPTs (60 minutes)
 
-<br>
-<br>
+This chapter introduces recent developments in AI, including **ChatGPT Canvas** and **Claude Artifacts**, which provide powerful tools for strategy development. We’ll start with a **team exercise** to create a prompt for an **F25 Charter** focused on food waste reduction.
 
-# 📊 Chapter 3  
-## 📉 Automations and NO/LO Code (60 minutes)
+### Objectives for Chapter 1
+- **Create a Strategy**: Using ChatGPT Canvas, write a roadmap for food waste reduction, including KPIs to align with organizational goals.
+- **Experiment with CustomGPTs**: Use Claude Artifacts to explore how AI can help visualize and refine strategic plans.
+- **Hands-on Exercise**: Develop a prompt for a detailed F25 Charter, defining clear steps to reduce waste and establish measurable KPIs.
 
+---
+
+## 🚀 Chapter 2: UI and Agents (60 minutes)
+
+In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charter prompt into an interactive **dashboard**. We'll discuss **data visualization** techniques, build the foundation of a real-time dashboard, and explore **AI Agents** and their role in data processing.
+
+### Objectives for Chapter 2
+- **Dashboard Building**: Using the F25 Charter prompt, we’ll craft a dashboard in v0.dev.
+- **Explore Agents**: Learn about the importance of AI Agents, what they are, and how they can automate tasks and improve efficiency.
+- **Practical Application**: Design and deploy a dashboard that tracks KPIs in real-time, ensuring the organization stays aligned with the food waste reduction goals.
+
+#### Topics
+- 🖥️ **Dashboard Creation**: Build a live dashboard from the F25 Charter prompt using v0.dev.
+- 🔍 **Data Agents**: Introduction to data agents, discussing their use and potential for automation.
+- 🤖 **Practical Tips**: Understand best practices for integrating agents with dashboard analytics.
+
+---
+
+## 📊 Chapter 3: Automations and NO/LO Code (60 minutes)
+
+In our final chapter, we’ll take the UI and code from v0.dev and push it into **Replit**, **GPT Engineer**, and **CLINE** to build a functional, interactive dashboard. This is where we bring the entire process together, showcasing the power of **no-code/low-code platforms** for scalable automation.
+
+### Objectives for Chapter 3
+- **Multi-Platform Integration**: Implement the F25 Charter dashboard across Replit, GPT Engineer, and CLINE.
+- **Automation**: Explore low-code/no-code automation for real-world applications.
+- **Final Hands-on Exercise**: Deploy the completed dashboard and understand how automation can streamline organizational objectives.
+
+#### Topics
+- ⚙️ **Replit**: Transfer code and UI to Replit for further development.
+- 🧑‍💻 **GPT Engineer & CLINE**: Integrate with GPT Engineer and CLINE to refine and automate the dashboard’s functions.
+- 📈 **Final Dashboard Launch**: Build a fully functional, automated dashboard that aligns with the F25 Charter goals.
+
+---
+
+### Getting Started
+
+1. Clone this repo to get access to prompts, configurations, and resources.
+2. Review each chapter’s **Objectives** and **Topics** to prepare for hands-on exercises.
+3. **Lean in, experiment, and FAFO** – there’s no "wrong" answer, and I’m here to help!
+
+We’re thrilled to embark on this AI journey together. Let’s unlock the potential of AI in empowering change and creating actionable, real-world solutions!
