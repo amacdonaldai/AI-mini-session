@@ -68,10 +68,22 @@ In this chapter, we’ll use the **v0.dev platform** to transform the F25 Charte
 - **Explore Agents**: Learn about the importance of AI Agents, what they are, and how they can automate tasks and improve efficiency.
 - **Practical Application**: Design and deploy a dashboard that tracks KPIs in real-time, ensuring the organization stays aligned with the food waste reduction goals.
 
-#### Topics
-- 🖥️ **Dashboard Creation**: Build a live dashboard from the F25 Charter prompt using v0.dev.
-- 🔍 **Data Agents**: Introduction to data agents, discussing their use and potential for automation.
-- 🤖 **Practical Tips**: Understand best practices for integrating agents with dashboard analytics.
+#### Agent Demo Prompt
+
+Use the following prompt in **HyperSpace Compute** to demonstrate how agents can work collaboratively to complete a complex task:
+
+**Prompt:**
+
+**Objective**: Demonstrate how agents can work together within HyperSpace Compute to solve a complex, multi-step task focused on analyzing and optimizing an organization’s food waste reduction strategy. Each agent will perform specific roles, illustrating how collaborative agents can streamline processes, analyze data, and generate insights.
+
+1. **Data Collection Agent**: Gather data from internal and external sources, focusing on food waste statistics and benchmarks.
+2. **Data Analysis Agent**: Analyze the data to identify patterns and high-impact areas.
+3. **Reporting Agent**: Summarize insights in a digestible format, including visual reports.
+4. **KPI Generation Agent**: Define KPIs based on findings to track success across departments.
+5. **Strategy Agent**: Formulate a strategic plan with actionable steps.
+6. **Monitoring Agent**: Continuously track KPIs and update progress in real time.
+
+Each agent works collaboratively to ensure a comprehensive, data-driven approach to food waste reduction.
 
 ---
 
@@ -88,8 +100,6 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 - ⚙️ **Replit**: Transfer code and UI to Replit for further development.
 - 🧑‍💻 **GPT Engineer & CLINE**: Integrate with GPT Engineer and CLINE to refine and automate the dashboard’s functions.
 - 📈 **Final Dashboard Launch**: Build a fully functional, automated dashboard that aligns with the F25 Charter goals.
-
----
 
 ---
 
@@ -129,9 +139,6 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
-
-
 ---
-
 
 We’re thrilled to embark on this AI journey together. Let’s unlock the potential of AI in empowering change and creating actionable, real-world solutions!
