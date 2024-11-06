@@ -103,6 +103,8 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
+---
+
 ## 🛠️ Tools and Resources
 
 Below is a list of tools and platforms we'll be utilizing throughout the workshop, organized alphabetically for easy access:
@@ -126,6 +128,8 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
 
 - **[Hyper Space](https://hyper.space/)**: A modern, generative browser, incorporating various Agentic tools.
+
+- **[Napkin](https://www.napkin.ai/)**: An intuitive AI-powered tool for organizing ideas and visual notes, perfect for capturing and structuring creative thoughts.
 
 - **[NotebookLM](https://www.google.com/notebooklm/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
 
