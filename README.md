@@ -91,6 +91,8 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
+---
+
 ## 🛠️ Tools and Resources
 
 Below is a list of tools and platforms we'll be utilizing throughout the workshop, organized alphabetically for easy access:
@@ -107,15 +109,28 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 - **[CLINE](https://github.com/cline/cline)**: A command-line interface tool that integrates with no-code/low-code workflows to streamline development processes.
 
+- **[CrewAI](https://www.crewai.com/)**: A collaborative platform powered by AI to help teams brainstorm, organize, and execute creative projects efficiently.
+
+- **[Gemini](https://gemini.com/)**: A generative AI tool by Google, designed to facilitate content creation and advanced AI applications.
+
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: A tool that leverages GPT models to assist in generating and refining code snippets based on user inputs.
 
-- **[NotebookLM](https://notebooklm.google/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
+- **[Hyper Space](https://hyper.space/)**: A modern, generative browser, incorporating various Agentic tools.
+
+- **[NotebookLM](https://www.google.com/notebooklm/)**: An AI-powered note-taking and research tool developed by Google, designed to help users organize and understand information.
+
+- **[OpenAI Swarm](https://github.com/openai/swarm)**: An open-source framework by OpenAI to coordinate multiple agents working collaboratively to solve complex tasks.
+
+- **[Perplexity](https://www.perplexity.ai/)**: An advanced AI-powered search and Q&A tool, providing precise answers and information from across the web.
 
 - **[Replit](https://replit.com/)**: An online coding platform that allows users to write, run, and share code in various programming languages.
 
-- **[Vercel (v0.dev)](https://v0.dev)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+- **[Vercel (v0.dev)](https://vercel.com/)**: A platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 
-- **[Hyper Space](https://hyper.space/)**: A modern, generative browser, incorporating various Agentic tools.
+Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
+
+---
+
 <br>
 
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
