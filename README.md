@@ -103,7 +103,6 @@ In our final chapter, we’ll take the UI and code from v0.dev and push it into 
 
 ---
 
----
 
 ## 🛠️ Tools and Resources
 
