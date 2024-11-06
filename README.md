@@ -129,11 +129,7 @@ Below is a list of tools and platforms we'll be utilizing throughout the worksho
 
 Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
----
 
-<br>
-
-Feel free to explore these resources to familiarize yourself with the tools we'll be using during the workshop.
 
 ---
 
